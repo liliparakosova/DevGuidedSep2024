@@ -1,0 +1,11 @@
+﻿{
+  "SqlScript": {
+    "UId": "70855e4f-b418-01f2-ca55-8a193283e661",
+    "Name": "DeleteLandAreaFromUsrRealityTypeClass",
+    "DBEngineType": 0,
+    "InstallType": 2,
+    "ModifiedOnUtc": "\/Date(1727184032000)\/",
+    "BackwardCompatibilityConfirmed": false,
+    "DependsOn": []
+  }
+}
