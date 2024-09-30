@@ -8,8 +8,27 @@
 			<Item Name="LocalizableStrings.addRecord_fldgngt_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_pfu4jo6_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_tl1mucz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
 			<Item Name="LocalizableStrings.Button_o334mx9_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.Button_pkost4s_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.ExpansionPanel_1jyinmq_title.Value" Value="Realty Visit" />
+			<Item Name="LocalizableStrings.ExpansionPanel_pehtint_title.Value" Value="Expanded list" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_8h7ulp8_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailAddBtn_xdzhg21_caption.Value" Value="New" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_a8598uz_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailExportDataBtn_wi4g9nw_caption.Value" Value="Export to Excel" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_f5gteha_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailImportDataBtn_wvtjoej_caption.Value" Value="Data import" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_2av5fu0_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailRefreshBtn_eatohlj_caption.Value" Value="Refresh" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_dxwxn3s_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSearchFilter_xbcegju_placeholder.Value" Value="Search" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_0lz33es_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.GridDetailSettingsBtn_nr4fy9j_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.MenuItem_2u4nkwn_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItem_hdxg72d_caption.Value" Value="Calculate average price" />
 			<Item Name="LocalizableStrings.NumberInput_6f4e1jr_label.Value" Value="Number" />
+			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
 		</Items>
 	</Group>
 </Resources>

@@ -68,7 +68,7 @@
         },
         {
           "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
-          "Value": "\/Date(1727211622955+0300)\/"
+          "Value": "\/Date(1727255153121+0300)\/"
         },
         {
           "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -76,7 +76,7 @@
         },
         {
           "SchemaColumnUId": "ef0ed19e-3588-f1c9-289b-ae5eed077ba7",
-          "Value": ""
+          "Value": "#FF00FF"
         }
       ]
     }
