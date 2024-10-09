@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "ca70c4dc-67c1-44fc-8e73-8b412f221462",
+    "Name": "UsrGetGoldPricesMainProcess",
+    "ModifiedOnUtc": "\/Date(1728312017000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "Get gold prices main process",
+    "DependsOn": []
+  }
+}

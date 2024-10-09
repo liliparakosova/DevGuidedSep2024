@@ -26,6 +26,8 @@
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_0lz33es_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.GridDetailSettingsBtn_nr4fy9j_caption.Value" Value="Actions" />
 			<Item Name="LocalizableStrings.MenuItem_2u4nkwn_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItem_8c0iyk5_caption.Value" Value="Add 5 visits" />
+			<Item Name="LocalizableStrings.MenuItem_bekbj5u_caption.Value" Value="Run web Service to calc max price" />
 			<Item Name="LocalizableStrings.MenuItem_hdxg72d_caption.Value" Value="Calculate average price" />
 			<Item Name="LocalizableStrings.NumberInput_6f4e1jr_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
