@@ -8,9 +8,12 @@
 			<Item Name="LocalizableStrings.addRecord_fldgngt_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_pfu4jo6_caption.Value" Value="Add new" />
 			<Item Name="LocalizableStrings.addRecord_tl1mucz_caption.Value" Value="Add new" />
+			<Item Name="LocalizableStrings.AddVisitsMenuItem_caption.Value" Value="Add 5 visits" />
 			<Item Name="LocalizableStrings.AreaCannotBeLess.Value" Value="Area cannot be less than 100 sq ft" />
+			<Item Name="LocalizableStrings.AreaGreaterThanZero.Value" Value="Area must be greater than 0" />
 			<Item Name="LocalizableStrings.Button_o334mx9_caption.Value" Value="Push me!" />
 			<Item Name="LocalizableStrings.Button_pkost4s_caption.Value" Value="Actions" />
+			<Item Name="LocalizableStrings.CalcAvgPriceMenuItem_caption.Value" Value="Calculate average price" />
 			<Item Name="LocalizableStrings.ExpansionPanel_1jyinmq_title.Value" Value="Realty Visit" />
 			<Item Name="LocalizableStrings.ExpansionPanel_pehtint_title.Value" Value="Expanded list" />
 			<Item Name="LocalizableStrings.GridDetailAddBtn_8h7ulp8_caption.Value" Value="New" />
@@ -28,9 +31,15 @@
 			<Item Name="LocalizableStrings.MenuItem_2u4nkwn_caption.Value" Value="Calculate average price" />
 			<Item Name="LocalizableStrings.MenuItem_8c0iyk5_caption.Value" Value="Add 5 visits" />
 			<Item Name="LocalizableStrings.MenuItem_bekbj5u_caption.Value" Value="Run web Service to calc max price" />
+			<Item Name="LocalizableStrings.MenuItem_bqvrxmb_caption.Value" Value="Run web service to calc min price" />
 			<Item Name="LocalizableStrings.MenuItem_hdxg72d_caption.Value" Value="Calculate average price" />
+			<Item Name="LocalizableStrings.MenuItemRunWebServiceMinPrice_caption.Value" Value="Run web service to calc min price" />
 			<Item Name="LocalizableStrings.NumberInput_6f4e1jr_label.Value" Value="Number" />
 			<Item Name="LocalizableStrings.PriceCannotBeLess.Value" Value="Price cannot be less than 50.0" />
+			<Item Name="LocalizableStrings.PriceGreaterThanZero.Value" Value="Price must be greater than 0" />
+			<Item Name="LocalizableStrings.PushMeButton_caption.Value" Value="Push me!" />
+			<Item Name="LocalizableStrings.RunWebServiceMenuItem_caption.Value" Value="Run web Service to calc max price" />
+			<Item Name="Parameters.84475a86-bfc4-2c2f-6074-9a823e75d2da.Caption" Value="Text 1" />
 		</Items>
 	</Group>
 </Resources>

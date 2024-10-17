@@ -1,4 +1,4 @@
- namespace Terrasoft.Configuration
+/* namespace Terrasoft.Configuration
 {
     using System.ServiceModel;
     using System.ServiceModel.Web;
@@ -9,6 +9,8 @@
     using System.Web.SessionState;
     [ServiceContract]
     [AspNetCompatibilityRequirements(RequirementsMode = AspNetCompatibilityRequirementsMode.Required)]
+
+
     public class RealtyService : BaseService, IReadOnlySessionState
     {
         [OperationContract]
@@ -40,4 +42,4 @@
         }
 
     }
-}
+}*/

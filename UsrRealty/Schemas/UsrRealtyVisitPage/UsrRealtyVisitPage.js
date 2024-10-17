@@ -62,7 +62,7 @@ define("UsrRealtyVisitPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "ComboBox_trl8jki",
+				"name": "ComboBoxUsrOwner",
 				"values": {
 					"layoutConfig": {
 						"column": 1,
@@ -71,12 +71,17 @@ define("UsrRealtyVisitPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 						"rowSpan": 1
 					},
 					"type": "crt.ComboBox",
-					"label": "$Resources.Strings.UsrRealtyVisitDS_UsrResponsibleEmployee_tr1498l",
+					"label": "$Resources.Strings.UsrRealtyVisitDS_UsrOwner_exw12la",
 					"labelPosition": "above",
-					"control": "$UsrRealtyVisitDS_UsrResponsibleEmployee_tr1498l",
+					"control": "$UsrRealtyVisitDS_UsrOwner_exw12la",
 					"listActions": [],
 					"showValueAsLink": true,
-					"controlActions": []
+					"controlActions": [],
+					"visible": true,
+					"readonly": false,
+					"placeholder": "",
+					"tooltip": "",
+					"valueDetails": null
 				},
 				"parentName": "MainContainer",
 				"propertyName": "items",
@@ -84,18 +89,18 @@ define("UsrRealtyVisitPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 			},
 			{
 				"operation": "insert",
-				"name": "addRecord_4vvsfjq",
+				"name": "addRecord_qdgr1mq",
 				"values": {
 					"code": "addRecord",
 					"type": "crt.ComboboxSearchTextAction",
 					"icon": "combobox-add-new",
-					"caption": "#ResourceString(addRecord_4vvsfjq_caption)#",
+					"caption": "#ResourceString(addRecord_qdgr1mq_caption)#",
 					"clicked": {
 						"request": "crt.CreateRecordFromLookupRequest",
 						"params": {}
 					}
 				},
-				"parentName": "ComboBox_trl8jki",
+				"parentName": "ComboBoxUsrOwner",
 				"propertyName": "listActions",
 				"index": 0
 			},
@@ -145,6 +150,11 @@ define("UsrRealtyVisitPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHE
 					"UsrRealtyVisitDS_UsrComments_pnyh8cj": {
 						"modelConfig": {
 							"path": "UsrRealtyVisitDS.UsrComments"
+						}
+					},
+					"UsrRealtyVisitDS_UsrOwner_exw12la": {
+						"modelConfig": {
+							"path": "UsrRealtyVisitDS.UsrOwner"
 						}
 					}
 				}
